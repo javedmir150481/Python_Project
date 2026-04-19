@@ -66,8 +66,10 @@ pip install -r requirements.txt
 
 ## 📊 Sample Outputs
 
-* Opportunity Analysis
+* Job Opportunity Analysis
 ![Alt text](3_Python_Project/images/Job_Opportunity_Analysis.png)
+
+
 * Optimal Skills
 ![Alt text](3_Python_Project/images/Job_Optimal_Skills.png)
 * Optimal Technology Skills
@@ -94,18 +96,3 @@ Dataset: `lukebarousse/data_jobs` (Hugging Face)
 * Add interactive dashboards (Plotly / Power BI)
 * Deploy as web app
 * Add machine learning predictions
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👤 Author
-
-**Javed Mir**
-GitHub: https://github.com/javedmir150481
-
----
