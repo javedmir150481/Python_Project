@@ -60,13 +60,13 @@ pip install -r requirements.txt
 
 * Job Opportunity Analysis
 
-!(3_Python_Project/images/Job_Opportunity_Analysis.png)
+![Job Opportunity Analysis](3_Python_Project/images/Job_Opportunity_Analysis.png)
 
 
 
 * Optimal Skills
 
-!(3_Python_Project/images/Job_Optimal_Skills.png)
+![Optimal Skills](3_Python_Project/images/Job_Optimal_Skills.png)
 
 
 
