@@ -48,15 +48,7 @@ git clone https://github.com/javedmir150481/Python_Project.git
 cd Python_Project
 ```
 
-### 2. Create virtual environment (recommended)
-
-```
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-```
-
-### 3. Install dependencies
+### 2. Install dependencies
 
 ```
 pip install -r requirements.txt
@@ -67,12 +59,12 @@ pip install -r requirements.txt
 ## 📊 Sample Outputs
 
 * Job Opportunity Analysis
-![Job Opportunity Analysis](3_Python_Project/images/Job_Opportunity_Analysis.png)
+!(3_Python_Project/images/Job_Opportunity_Analysis.png)
 
 
 
 * Optimal Skills
-![Optimal Skills](3_Python_Project/images/Job_Optimal_Skills.png)
+!(3_Python_Project/images/Job_Optimal_Skills.png)
 
 
 
