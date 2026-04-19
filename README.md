@@ -67,21 +67,19 @@ pip install -r requirements.txt
 ## 📊 Sample Outputs
 
 * Job Opportunity Analysis
-![Alt text](3_Python_Project/images/Job_Opportunity_Analysis.png)
-
-
+![Job Opportunity Analysis](3_Python_Project/images/Job_Opportunity_Analysis.png)
 * Optimal Skills
-![Alt text](3_Python_Project/images/Job_Optimal_Skills.png)
+![Optimal Skills](3_Python_Project/images/Job_Optimal_Skills.png)
 * Optimal Technology Skills
-![Alt text](3_Python_Project/images/Job_Optimal_Technology_Skills.png)
+![Optimal Technology Skills](3_Python_Project/images/Job_Optimal_Technology_Skills.png)
 * Salary Analysis
-![Alt text](3_Python_Project/images/Job_Salary_Analysis.png)
+![Salary Analysis](3_Python_Project/images/Job_Salary_Analysis.png)
 * Salary Skills Analysis
-![Alt text](3_Python_Project/images/Job_Salary_Skills_Analysis.png)
+![Salary Skills Analysis](3_Python_Project/images/Job_Salary_Skills_Analysis.png)
 * Skills Trend
-![Alt text](3_Python_Project/images/Job_Skills_Trend.png)
+![Skills Trend](3_Python_Project/images/Job_Skills_Trend.png)
 * Skills Trend Analysis
-![Alt text](3_Python_Project/images/Job_Skills_Trend_Analysis.png)
+![Skills Trend Analysis](3_Python_Project/images/Job_Skills_Trend_Analysis.png)
 
 ---
 
